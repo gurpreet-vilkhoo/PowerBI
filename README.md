@@ -1,8 +1,22 @@
-# PowerBI- Revenue Dashboard
-# Business Case:
+### Financial Dashboards
+
+
+ ### Sales, Income and Financial Simulator Dashboard
+
+ 
+ ![Revenue and Margin Analysis](https://user-images.githubusercontent.com/80466173/111428223-3a7cf080-871d-11eb-92cb-a2985bda2a6c.gif)
+
+![Income Statement Analysis](https://user-images.githubusercontent.com/80466173/111428345-613b2700-871d-11eb-983f-ea84cb109a00.gif)
+
+![Financial Simulator](https://user-images.githubusercontent.com/80466173/111428408-7748e780-871d-11eb-9a32-9fb8eb3903de.gif)
+
+
+
+ ### Revenue Dashboard
+#### Business Case:
 ABC company is recording transactions in three different excel workbooks. One contains details about customers; other two contains details of transaction as Invoice Headers and Invoice details.
 The purpose is to create Revenue dashboard
-# The following steps were done to create the revenue dasboard:-
+##### The following steps were done to create the revenue dasboard:-
 Step 1: Get Data and transform
 Using Power- BI, Import the given data set, rename the tables as Customers, OrderHeaders and Orderdetails and transform it if required.
 Step 2: Build Model
