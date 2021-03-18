@@ -89,3 +89,22 @@ The dataset consists of passenger travel trends data from 1990 to 2019
 ![image](https://user-images.githubusercontent.com/80466173/111582302-a3796c80-87e0-11eb-936d-319937fd6763.png)
 
 
+##### Forecasting settings
+
+![image](https://user-images.githubusercontent.com/80466173/111582833-6661aa00-87e1-11eb-8c5a-fb735fc6ce7c.png)
+
+##### Flow Map settings
+
+![image](https://user-images.githubusercontent.com/80466173/111582908-8abd8680-87e1-11eb-8206-07aef3079e16.png)
+
+![image](https://user-images.githubusercontent.com/80466173/111582940-9c9f2980-87e1-11eb-84c1-bbec05e561cd.png)
+
+##### Model Relationship
+
+![image](https://user-images.githubusercontent.com/80466173/111583032-c7897d80-87e1-11eb-933c-018fec4e8255.png)
+
+
+
+
+
+
